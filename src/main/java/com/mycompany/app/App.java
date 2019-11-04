@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Testing the Maven project using the Git Bash instead of CMD!" );
+        System.out.println( "Testing the app using Jenkins and maven commands!" );
     }
 }
